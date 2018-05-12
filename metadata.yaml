@@ -1,0 +1,27 @@
+_repo: Trifles-for-the-Christmas-Holidays_17562
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Armstrong, H. S.
+    gutenberg_agent_id: '7456'
+    url: http://www.gutenberg.org/2009/agents/7456
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2006-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+tableOfContents: The Overture -- A Christmas Melody -- Story of a Beast -- Leaves
+  in the Life of an Idler -- Mr. Butterby Records His Case -- Diamonds and Hearts.
+title: Trifles for the Christmas Holidays
+url: http://www.gutenberg.org/ebooks/17562
